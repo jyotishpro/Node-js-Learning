@@ -1,0 +1,16 @@
+{
+  "name": "video-39",
+  "version": "1.0.0",
+  "description": "what is mongoose \r difference between mongoose vs mongodb package\r install mongooose \r what is schemas\r what is model\r connect node js and mongodb with mongoose",
+  "main": "CRUD_Operation_with_mongoose.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.6.3"
+  }
+}

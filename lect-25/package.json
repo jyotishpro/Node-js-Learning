@@ -1,0 +1,16 @@
+{
+  "name": "lect-25",
+  "version": "1.0.0",
+  "description": "what are middlewares\r   how to make a middleware\r   apply middleware on routes\r   types of middleware\r   interview question.\r   # middleware\r         ye function hota hai . jo ki routes ke sath use hota hai isse reequest aur response ko modify kar skte hai.\r         site block karna, age check karna , etc.\r         ek bar middleware bnte hai ise sabhi jagah use karte hai",
+  "main": "middleware.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0"
+  }
+}

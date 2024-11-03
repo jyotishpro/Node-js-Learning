@@ -1,0 +1,16 @@
+{
+  "name": "lect-26",
+  "version": "1.0.0",
+  "description": "route level\r apply middleware on single route\r make middleware in deffferernt file\r appply middleware in the group of route",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongodb": "^6.9.0"
+  }
+}

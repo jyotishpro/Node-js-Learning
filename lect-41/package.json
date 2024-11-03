@@ -1,0 +1,16 @@
+{
+  "name": "lect-41",
+  "version": "1.0.0",
+  "description": "make config file for mngodb\r  make psot route \r  get data from the postman and save in db\r   interview question",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.6.4"
+  }
+}
